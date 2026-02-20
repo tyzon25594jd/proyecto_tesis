@@ -24,8 +24,6 @@ services:
   frontend:
     build:
       context: ./Frontend/investihub-connect
-      args:
-        VITE_API_URL: https://vmi2777875.contaboserver.net
     container_name: investiup-frontend
     expose:
       - "80"
