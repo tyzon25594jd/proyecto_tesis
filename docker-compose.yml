@@ -17,7 +17,7 @@ services:
     build:
       context: ./Frontend/investihub-connect
       args:
-        VITE_API_URL: https://tudominio.com   # Cambia por tu dominio real
+        VITE_API_URL: https://vmi2777875.contaboserver.net
     container_name: investiup-frontend
     ports:
       - "80:80"

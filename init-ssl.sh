@@ -6,8 +6,8 @@
 #   chmod +x init-ssl.sh
 #   ./init-ssl.sh
 
-DOMAIN="tudominio.com"       # Cambia por tu dominio real
-EMAIL="tu@email.com"         # Cambia por tu email real
+DOMAIN="vmi2777875.contaboserver.net"
+EMAIL="tyzonperu@gmail.com"
 
 set -e
 
