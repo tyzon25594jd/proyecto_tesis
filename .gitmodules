@@ -1,7 +1,0 @@
-[submodule "Backend/investiupBackend"]
-	path = Backend/investiupBackend
-	url = https://github.com/tyzon25594jd/investiupBackend.git
-
-[submodule "Frontend/investihub-connect"]
-	path = Frontend/investihub-connect
-	url = https://github.com/Annie644/investihub-connect.git
