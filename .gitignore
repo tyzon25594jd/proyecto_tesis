@@ -1,0 +1,12 @@
+# Certificados SSL (se generan en el VPS)
+certbot/
+
+# Variables de entorno
+.env
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
