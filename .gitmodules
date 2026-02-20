@@ -4,3 +4,7 @@
 [submodule "Frontend/investihub-connect"]
 	path = Frontend/investihub-connect
 	url = https://github.com/Annie644/investihub-connect.git
+[submodule "landing/thesis-ace-advisor"]
+	path = landing/thesis-ace-advisor
+	url = https://github.com/Annie644/thesis-ace-advisor.git
+	branch = main
