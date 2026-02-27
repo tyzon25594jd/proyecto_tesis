@@ -6,7 +6,7 @@
 #   chmod +x init-ssl.sh
 #   ./init-ssl.sh
 
-DOMAIN="vmi2777875.contaboserver.net"
+DOMAIN="investiup.com"
 EMAIL="tyzonperu@gmail.com"
 
 set -e
